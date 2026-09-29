@@ -108,3 +108,19 @@ Beynatna follows a modular full-stack architecture that separates the mobile exp
        │ PostgreSQL +      │       │ Services          │
        │ Drizzle ORM       │       │ AI Integration    │
        └───────────────────┘       └───────────────────┘
+
+
+## Current Status
+
+🚧 Functional MVP — Active Development
+Beynatna has progressed from an initial concept into a functional cross-platform MVP.
+The current application includes the core product experience and supporting backend architecture and continues to evolve through testing, user experience improvements, technical development, and product validation.
+Beynatna has also received recognition for both its business concept and technical implementation:
+- 🥈 2nd Place — Business Idea
+- 🥈 2nd Place — Technical Implementation
+- 🚀 Selected for JOIN Fincubator — Cohort 4
+The project is currently continuing through product development and incubation as the team works toward further validation and future launch.
+
+## Team
+
+Beynatna is developed by a student-led team in Jordan 🇯🇴, bringing together technology, entrepreneurship, product development, and financial innovation.
