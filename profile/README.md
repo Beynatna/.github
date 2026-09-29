@@ -123,4 +123,11 @@ The project is currently continuing through product development and incubation a
 
 ## Team
 
-Beynatna is developed by a student-led team in Jordan 🇯🇴, bringing together technology, entrepreneurship, product development, and financial innovation.
+## Team
+
+### [Ban Y. Tarawneh](https://www.linkedin.com/in/ban-tarawneh/?isSelfProfile=true)
+
+### [Karmel Qawasmi](https://www.linkedin.com/in/karmel-qawasmi-40b70b197/)
+
+
+
