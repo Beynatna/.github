@@ -3,7 +3,6 @@
 ### Building better financial habits, together.
 
 Beynatna is a family-focused financial platform designed to make financial literacy more practical, collaborative, and accessible.
-
 Rather than treating financial literacy as an individual activity, Beynatna brings learning, planning, saving, and everyday financial decision-making into a shared family experience.
 
 ---
@@ -79,7 +78,7 @@ Beynatna is built as a full-stack, cross-platform application using a modular Ty
 
 ---
 
-## High-Level Architecture
+## Architecture
 
 Beynatna follows a modular full-stack architecture that separates the mobile experience, application services, data layer, and intelligent services.
 
@@ -112,16 +111,14 @@ Beynatna follows a modular full-stack architecture that separates the mobile exp
 ```
 ## Current Status
 
-🚧 Functional MVP — Active Development
+Functional MVP — Active Development
 Beynatna has progressed from an initial concept into a functional cross-platform MVP.
 The current application includes the core product experience and supporting backend architecture and continues to evolve through testing, user experience improvements, technical development, and product validation.
-Beynatna has also received recognition for both its business concept and technical implementation:
+Beynatna has also received recognition for both its business concept and technical implementation at **Fintech Rally 2025**:
 - 🥈 2nd Place — Business Idea
 - 🥈 2nd Place — Technical Implementation
 - 🚀 Selected for JOIN Fincubator — Cohort 4
 The project is currently continuing through product development and incubation as the team works toward further validation and future launch.
-
-## Team
 
 ## Team
 
