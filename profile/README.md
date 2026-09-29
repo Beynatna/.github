@@ -109,7 +109,7 @@ Beynatna follows a modular full-stack architecture that separates the mobile exp
        │ Drizzle ORM       │       │ AI Integration    │
        └───────────────────┘       └───────────────────┘
 
-
+```
 ## Current Status
 
 🚧 Functional MVP — Active Development
